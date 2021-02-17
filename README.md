@@ -30,7 +30,7 @@ Chave da API (api_key): c2e78b4a8c14e65dd6e27504e6df95ad
 
 ## Entrega
 
-Fazer um fork desse repositório e um PR com o que foi desenvolvido.
+Enviar o respositório usado no GitHub antes do término do prazo final ou ao finalizar o desenvolvimento do desafio.
 
 #### Dicas:
 - Priorize um código limpo, legível e componentizável, mesmo que isso tome algum tempo.
