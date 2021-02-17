@@ -14,14 +14,23 @@ https://developers.themoviedb.org/3/getting-started/images
 
 Chave da API (api_key): c2e78b4a8c14e65dd6e27504e6df95ad
 
-## Requisitos
-
+## Requisitos Obrigatórios:
 - Não devem ser usadas StoryBoards em nenhum momento na aplicação
+- Código limpo e legível.
 - As informações sobre o filme devem estar em português
 - A listagem de filmes deve obrigatoriamente ser paginada
 - Deve ser possível “favoritar” e “desfavoritar” um filme, fazendo com que sua aparição na listagem indique que esse filme foi favoritado. Essa lógica deve ser local, não dependendo de novas requisições à API
+
+## Pontos extras:
+- Adição de testes unitários.
+- Persistir os dados de favoritos com Core Data.
+- Fazer uso de dependências externas com cocoapods.
+- Garantir uma boa UX.
+- Fazer uso de Design Patterns.
 
 ## Entrega
 
 Fazer um fork desse repositório e um PR com o que foi desenvolvido.
 
+#### Dicas:
+- Priorize um código limpo, legível e componentizável, mesmo que isso tome algum tempo.
